@@ -1,1 +1,1 @@
-# mlops-labs
+# mlops-labs-practices
